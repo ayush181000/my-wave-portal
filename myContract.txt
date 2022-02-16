@@ -1,1 +1,2 @@
-https://rinkeby.etherscan.io/address/0xf5a13c91d54e4a2b7e903fc26f2b7f2261d77f97#internaltx
+RINKEBY URL = https://rinkeby.etherscan.io/address/0xf5a13c91d54e4a2b7e903fc26f2b7f2261d77f97#internaltx
+CONTRACT ADDRESS = 0xf5a13c91D54E4a2b7E903Fc26F2b7f2261d77f97
